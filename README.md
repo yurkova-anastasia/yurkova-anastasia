@@ -10,7 +10,7 @@
 - 🌠 Remember, in space, the sky is not the limit; it's just the beginning.
 
 
-![](https://komarev.com/ghpvc/?username=yurueu-andrei)      
+![](https://komarev.com/ghpvc/?username=yurkova-anastasia)      
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
