@@ -1,5 +1,5 @@
 # Hello, I'm Anastasia 👋
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+java+developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+developer)](https://git.io/typing-svg)
 
 - 💡 I'm deeply passionate about innovation and technology.
 - 🌱 I’m currently learning Java and Java-related stack
